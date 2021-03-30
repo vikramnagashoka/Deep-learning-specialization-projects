@@ -7,8 +7,8 @@ In this project I use the Gatys, et al algorithm to transfer styles from some fa
 Here I use ideas from two popular models FaceNet and Deepface to build two models, one for face verification trained on a public faces dataset. 
 Another one for face recognition. Some of the tasks in the project include. 
 
-   ### -> Implement the triplet loss function. 
-   ### -> Use a pretrained model to map face images into 128-dimensional encodings. 
+   ##### -> Implement the triplet loss function. 
+   #### -> Use a pretrained model to map face images into 128-dimensional encodings. 
    ### -> Use these encodings to perform face verification and face recognition.
 
 # 3 Object detection using YOLO network. 
